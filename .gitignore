@@ -1,0 +1,28 @@
+# Build Results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Test Results
+TestResults/
+*.trx
+
+# Allure Reporting
+allure-results/
+allure-report/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+packages/
